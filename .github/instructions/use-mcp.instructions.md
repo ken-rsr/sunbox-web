@@ -1,0 +1,5 @@
+---
+applyTo: "**"
+---
+
+Use Sequential Thinking
